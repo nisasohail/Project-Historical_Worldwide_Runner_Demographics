@@ -5,17 +5,20 @@ Data Used & CSV File:
 
 •	Runner data with demographic information in csv format 
 •	Data source was from Kaggle.
-•	Create Jupyter Notebook to cleanse the data & create the SQLite database
-•	Clean the CSV file
+•	Created Jupyter Notebook to cleanse the data & create the SQLite database
+•	Cleaned the CSV file
+
 Analysis:
 •	What is the proportion of each gender and whether there is a growth/decline trend 
 •	Age demographic trend and which age group has the most runner headcount 
 •	By country or continent analysis, which country has more male/female runner than the rest/which country has the youngest group of runners.
+
 Github:
-•	Create a website via Github or launch using Heroku.
+•	Created a website via Github.
 •	Include dataset
 •	Graphical Analysis 
 •	Use Flask server 
+
 Authors
 Amy 
 Nisa
