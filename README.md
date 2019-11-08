@@ -19,11 +19,7 @@ Github:
 •	Graphical Analysis 
 •	Use Flask server 
 
-Authors
-Amy 
-Nisa
-Ben 
-Bala
+Authors: Amy, Nisa, Ben, Bala
 
 
 
