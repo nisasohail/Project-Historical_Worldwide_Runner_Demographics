@@ -8,18 +8,33 @@ Data Used & CSV File:
 •	Created Jupyter Notebook to cleanse the data & create the SQLite database
 •	Cleaned the CSV file
 
-Analysis:
+## Analysis:
 •	What is the proportion of each gender and whether there is a growth/decline trend 
 •	Age demographic trend and which age group has the most runner headcount 
 •	By country or continent analysis, which country has more male/female runner than the rest/which country has the youngest group of runners.
 
-Github:
-•	Created a website via Github.
-•	Include dataset
-•	Graphical Analysis 
-•	Use Flask server 
 
-Authors: Amy, Nisa, Ben, Bala
+## Table of contents
+* [Technologies](#technologies)
+* [Authors](#authors)
+* [Sources](#sources)
+	
+## Technologies
+Project is created with:
+* Created website via Github
+* Include dataset
+* Graphical Analysis
+* Use Flask server 
+
+## Authors
+* Nisa Bukhari
+* Amy
+* Ben
+* Bala
+
+## Sources
+https://www.statista.com/topics/1743/running-and-jogging/
+
 
 
 
