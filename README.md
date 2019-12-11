@@ -28,8 +28,8 @@ Project is created with:
 
 ## Authors
 * Nisa Bukhari
-* Amy
-* Ben
+* Shiqi Liu
+* Benjamin Podell
 * Bala
 
 ## Sources
