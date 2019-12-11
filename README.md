@@ -15,9 +15,18 @@ Data Used & CSV File:
 
 
 ## Table of contents
+* [Screen Shots] (#Screen Shots)
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
+
+## Screen Shots
+
+![group](https://user-images.githubusercontent.com/49736893/70659988-ce146700-1c26-11ea-9645-e5e1046554e0.jpg)
+![map](https://user-images.githubusercontent.com/49736893/70659989-ce146700-1c26-11ea-819b-bd85db59d778.png)
+![runners](https://user-images.githubusercontent.com/49736893/70659990-ce146700-1c26-11ea-8f62-ac3ba0168eb9.jpeg)
+![world map](https://user-images.githubusercontent.com/49736893/70659991-ce146700-1c26-11ea-99dd-a35ace7a8411.png)
+
 	
 ## Technologies
 Project is created with:
