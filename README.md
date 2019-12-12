@@ -3,10 +3,10 @@
 We analyzed historical data of runners to find out the trend and make prediction based on our analysis 
 Data Used & CSV File:
 
-•	Runner data with demographic information in csv format 
-•	Data source was from Kaggle.
-•	Created Jupyter Notebook to cleanse the data & create the SQLite database
-•	Cleaned the CSV file
+* Runner data with demographic information in csv format 
+* Data source was from Kaggle.
+* Created Jupyter Notebook to cleanse the data & create the SQLite database
+* Cleaned the CSV file
 
 ![map](https://user-images.githubusercontent.com/49736893/70659989-ce146700-1c26-11ea-819b-bd85db59d778.png)
 
