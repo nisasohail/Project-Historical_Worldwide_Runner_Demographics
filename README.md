@@ -29,6 +29,8 @@ Data Used & CSV File:
 
 ## Worldwide Runners
 
+You would be suprise with the data findings. For instance, with the dataset we found 105 years old running marathons. As much as i am passionate about running. It's even amazing to play with the data and see what the comparson of the runners.
+
 ![group](https://user-images.githubusercontent.com/49736893/70659988-ce146700-1c26-11ea-9645-e5e1046554e0.jpg)
 
 	
