@@ -34,7 +34,6 @@ Data Used & CSV File:
 	
 ## Technologies
 
-Project is created with:
 * Website via Github
 * Include dataset
 * Graphical Analysis
