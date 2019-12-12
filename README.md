@@ -11,9 +11,9 @@ Data Used & CSV File:
 ![map](https://user-images.githubusercontent.com/49736893/70659989-ce146700-1c26-11ea-819b-bd85db59d778.png)
 
 ## Analysis:
-•	What is the proportion of each gender and whether there is a growth/decline trend 
-•	Age demographic trend and which age group has the most runner headcount 
-•	By country or continent analysis, which country has more male/female runner than the rest/which country has the youngest group of runners.
+* What is the proportion of each gender and whether there is a growth/decline trend 
+* Age demographic trend and which age group has the most runner headcount 
+* By country or continent analysis, which country has more male/female runner than the rest/which country has the youngest group of runners.
 
 
 ![world map](https://user-images.githubusercontent.com/49736893/70659991-ce146700-1c26-11ea-99dd-a35ace7a8411.png)
