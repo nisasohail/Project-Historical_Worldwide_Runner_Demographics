@@ -33,7 +33,7 @@ Data Used & CSV File:
 	
 ## Technologies
 Project is created with:
-* website via Github
+* Website via Github
 * Include dataset
 * Graphical Analysis
 * Use Flask server 
