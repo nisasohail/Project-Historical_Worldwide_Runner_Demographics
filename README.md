@@ -10,7 +10,7 @@ Data Used & CSV File:
 
 ![map](https://user-images.githubusercontent.com/49736893/70659989-ce146700-1c26-11ea-819b-bd85db59d778.png)
 
-## Analysis:
+## Analysis
 * What is the proportion of each gender and whether there is a growth/decline trend 
 * Age demographic trend and which age group has the most runner headcount 
 * By country or continent analysis, which country has more male/female runner than the rest/which country has the youngest group of runners.
@@ -20,6 +20,7 @@ Data Used & CSV File:
 
 
 ## Table of contents
+
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
@@ -32,6 +33,7 @@ Data Used & CSV File:
 
 	
 ## Technologies
+
 Project is created with:
 * Website via Github
 * Include dataset
@@ -39,12 +41,14 @@ Project is created with:
 * Use Flask server 
 
 ## Authors
+
 * Nisa Bukhari
 * Shiqi Liu
 * Benjamin Podell
 * Bala
 
 ## Sources
+
 https://www.statista.com/topics/1743/running-and-jogging/
 
 
